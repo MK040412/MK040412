@@ -5,7 +5,7 @@
 
 ## CV
 
-#### Education
+### Education
   
   - Deep Down into Deep learning [For Beginner]
   - Deep Down into Pytorch [For Beginner]
@@ -14,13 +14,13 @@
   - Deep Down into Diffusion [For Expert]
   - TPU Cloud For Researcher [For Expert]
 
-#### Experience
+### Experience
 
   - Reviewing Vision Language Action paper
 
-#### Activities
+### Activities
 
-#### Skills
+### Skills
 
   - Isaac Sim
   - ManiSkill
