@@ -1,31 +1,41 @@
-# Welcome to my profile
+# 👋 Welcome to My Profile
 
-> Youtube: [https://www.youtube.com/@Guide_The_AI]  
-> Blog: [https://mk040412.github.io/MK040412/]
+- 📺 **YouTube**: [@Guide_The_AI](https://www.youtube.com/@Guide_The_AI)  
+- 📝 **Blog**: [mk040412.github.io](https://mk040412.github.io/MK040412/)
 
-## CV
+---
 
-  - 딥러닝논문읽기모임 (2025.02.02 ~ )
+## 📄 CV
 
-### Education
-  
-  - Deep Down into Deep learning [For Beginner]
-  - Deep Down into Pytorch [For Beginner]
-  - Fast Paper Review [For Middler]
-  - Deep Down into Reinforcement Learning [For Middler]
-  - Deep Down into Diffusion [For Expert]
-  - TPU Cloud For Researcher [For Expert]
+### 🧑‍🏫 Activities
+- 딥러닝 논문 읽기 모임 (*Deep Learning Paper Reading Group*) [2025.02.02 ~ ]
+- Vision-Language-Action (VLA) 논문 리뷰
 
-### Experience
+---
 
-  - Reviewing Vision Language Action paper
+### 🎓 Education
+- **Beginner**  
+  - Deep Down into Deep Learning  
+  - Deep Down into PyTorch  
 
-### Activities
+- **Intermediate**  
+  - Fast Paper Review  
+  - Deep Down into Reinforcement Learning  
 
-  - 
+- **Advanced / Expert**  
+  - Deep Down into Diffusion  
+  - TPU Cloud for Researcher  
 
-### Skills
+---
 
-  - Isaac Sim
-  - ManiSkill
-  - Mujoco
+### 💼 Experience
+- Reviewing Vision-Language-Action papers and related research
+
+---
+
+### 🛠 Skills
+- Simulation: Isaac Sim, ManiSkill, MuJoCo  
+- Deep Learning & Reinforcement Learning frameworks  
+- Research-focused reading & review skills  
+
+---
