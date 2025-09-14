@@ -5,6 +5,8 @@
 
 ## CV
 
+  - 딥러닝논문읽기모임 (2025.02.02 ~ )
+
 ### Education
   
   - Deep Down into Deep learning [For Beginner]
@@ -19,6 +21,8 @@
   - Reviewing Vision Language Action paper
 
 ### Activities
+
+  - 
 
 ### Skills
 
