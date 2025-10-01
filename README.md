@@ -13,7 +13,7 @@
 
 ---
 
-### 🎓 Education
+### 🎓 Open Source Lecture Material 
 - **Beginner**  
   - Deep Down into Deep Learning  
   - Deep Down into PyTorch  
@@ -36,6 +36,4 @@
 ### 🛠 Skills
 - Simulation: Isaac Sim, ManiSkill, MuJoCo  
 - Deep Learning & Reinforcement Learning frameworks  
-- Research-focused reading & review skills  
-
 ---
