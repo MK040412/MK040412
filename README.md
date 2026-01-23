@@ -1,7 +1,7 @@
 # 👋 Welcome to My Profile
 
 - 📺 **YouTube**: [@Guide_The_AI](https://www.youtube.com/@Guide_The_AI)  
-- 📝 **Blog**: [mk040412.github.io](https://mk040412.github.io/MK040412/)
+- 📝 **CV & Blog**: [@mk040412.github.io](https://mk040412.github.io/)
 
 ---
 
